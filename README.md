@@ -12,7 +12,7 @@ Check out the live version of my app:
 
 ## 📸 App Preview
 
-![App Preview](public/readmePreview.png)
+![App Preview](frontend/public/readmePreview.png)
 
 
 Highlights:
