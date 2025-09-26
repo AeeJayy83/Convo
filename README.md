@@ -50,3 +50,11 @@ npm run build
 ```shell
 npm start
 ```
+---
+
+## 🔥 Contributing
+
+## Feel free to fork this repository, open issues, or submit pull requests.
+
+💙 Made with passion by **Abhishek Jain**
+
